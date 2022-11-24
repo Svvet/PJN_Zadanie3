@@ -1,0 +1,47 @@
+Astronomers discover a rare “black widow” binary, with the shortest orbit yet
+The system is orbited by third stellar companion and may have originated near the center of the Milky Way.
+The flashing of a nearby star has drawn MIT astronomers to a new and mysterious system 3,000 light years from Earth. The stellar oddity appears to be a new “black widow binary” — a rapidly spinning neutron star, or pulsar, that is circling and slowly consuming a smaller companion star, as its arachnid namesake does to its mate.
+
+Astronomers know of about two dozen black widow binaries in the Milky Way. This newest candidate, named ZTF J1406+1222, has the shortest orbital period yet identified, with the pulsar and companion star circling each other every 62 minutes. The system is unique in that it appears to host a third, far-flung star that orbits around the two inner stars every 10,000 years.
+
+This likely triple black widow is raising questions about how such a system could have formed. Based on its observations, the MIT team proposes an origin story: As with most black widow binaries, the triple system likely arose from a dense constellation of old stars known as a globular cluster. This particular cluster may have drifted into the Milky Way’s center, where the gravity of the central black hole was enough to pull the cluster apart while leaving the triple black widow intact.
+
+“It’s a complicated birth scenario,” says Kevin Burdge, a Pappalardo Postdoctoral Fellow in MIT’s Department of Physics. “This system has probably been floating around in the Milky Way for longer than the sun has been around.”
+
+Burdge is the author of a study appearing today in Nature that details the team’s discovery. The researchers used a new approach to detect the triple system. While most black widow binaries are found through the gamma and X-ray radiation emitted by the central pulsar, the team used visible light, and specifically the flashing from the binary’s companion star, to detect ZTF J1406+1222.
+
+“This system is really unique as far as black widows go, because we found it with visible light, and because of its wide companion, and the fact it came from the galactic center,” Burdge says. “There’s still a lot we don’t understand about it. But we have a new way of looking for these systems in the sky.”
+
+The study’s co-authors are collaborators from multiple institutions, including the University of Warwick, Caltech, the University of Washington, McGill University, and the University of Maryland.
+
+Day and night
+
+Black widow binaries are powered by pulsars — rapidly spinning neutron stars that are the collapsed cores of massive stars. Pulsars have a dizzying rotational period, spinning around every few milliseconds, and emitting flashes of high-energy gamma and X-rays in the process.
+
+Normally, pulsars spin down and die quickly as they burn off a huge amount of energy. But every so often, a passing star can give a pulsar new life. As a star nears, the pulsar’s gravity pulls material off the star, which provides new energy to spin the pulsar back up. The “recycled” pulsar then starts reradiating energy that further strips the star, and eventually destroys it.
+
+“These systems are called black widows because of how the pulsar sort of consumes the thing that recycled it, just as the spider eats its mate,” Burdge says.
+
+Every black widow binary to date has been detected through gamma and X-ray flashes from the pulsar. In a first, Burdge came upon ZTF J1406+1222 through the optical flashing of the companion star.
+
+It turns out that the companion star’s day side — the side perpetually facing the pulsar — can be many times hotter than its night side, due to the constant high-energy radiation it receives from the pulsar.
+
+“I thought, instead of looking directly for the pulsar, try looking for the star that it’s cooking,” Burdge explains.
+
+He reasoned that if astronomers observed a star whose brightness was changing periodically by a huge amount, it would be a strong signal that it was in a binary with a pulsar.
+
+Star motion
+
+To test this theory, Burdge and his colleagues looked through optical data taken by the Zwicky Transient Facility, an observatory based in California that takes wide-field images of the night sky. The team studied the brightness of stars to see whether any were changing dramatically by a factor of 10 or more, on a timescale of about an hour or less — signs that indicate the presence of a companion star orbiting tightly around a pulsar.
+
+The team was able to pick out the dozen known black widow binaries, validating the new method’s accuracy. They then spotted a star whose brightness changed by a factor of 13, every 62 minutes, indicating that it was likely part of a new black widow binary, which they labeled ZTF J1406+1222.
+
+They looked up the star in observations taken by Gaia, a space telescope operated by the European Space Agency that keeps precise measurements of the position and motion of stars in the sky. Looking back through decades old measurements of the star​ from the Sloan Digital Sky Survey, the team found that the binary was being trailed by another distant star. Judging from their calculations, this third star appeared to be orbiting the inner binary every 10,000 years.
+
+Curiously, the astronomers have not directly detected gamma or X-ray emissions from the pulsar in the binary, which is the typical way in which black widows are confirmed. ZTF J1406+1222, therefore, is considered a candidate black widow binary, which the team hopes to confirm with future observations.
+
+“The one thing we know for sure is that we see a star with a day side that’s much hotter than the night side, orbiting around something every 62 minutes,” Burdge says. “Everything seems to point to it being a black widow binary. But there are a few weird things about it, so it’s possible it’s something entirely new.”
+
+The team plans to continue observing the new system, as well as apply the optical technique to illuminate more neutron stars and black widows in the sky.
+
+This research was supported, in part, by the National Science Foundation.

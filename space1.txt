@@ -1,0 +1,40 @@
+Search reveals eight new sources of black hole echoes
+The findings will help scientists trace a black hole’s evolution as it feeds on stellar material.
+Scattered across our Milky Way galaxy are tens of millions of black holes — immensely strong gravitational wells of spacetime, from which infalling matter, and even light, can never escape. Black holes are dark by definition, except on the rare occasions when they feed. As a black hole pulls in gas and dust from an orbiting star, it can give off spectacular bursts of X-ray light that bounce and echo off the inspiraling gas, briefly illuminating a black hole’s extreme surroundings.
+
+Now MIT astronomers are looking for flashes and echoes from nearby black hole X-ray binaries — systems with a star orbiting, and occasionally being eaten away by, a black hole. They are analyzing the echoes from such systems to reconstruct a black hole’s immediate, extreme vicinity.
+
+In a study appearing today in the Astrophysical Journal, the researchers report using a new automated search tool, which they’ve coined the “Reverberation Machine,” to comb through satellite data for signs of black hole echoes. In their search, they have discovered eight new echoing black hole binaries in our galaxy. Previously, only two such systems in the Milky Way were known to emit X-ray echoes.
+
+In comparing the echoes across systems, the team has pieced together a general picture of how a black hole evolves during an outburst. Across all systems, they observed that a black hole first undergoes a “hard” state, whipping up a corona of high-energy photons along with a jet of relativistic particles that is launched away at close to the speed of light. The researchers discovered that at a certain point, the black hole gives off one final, high-energy flash, before transitioning to a “soft,” low-energy state.
+
+This final flash may be a sign that a black hole’s corona, the region of high-energy plasma just outside a black hole’s boundary, briefly expands, ejecting a final burst of high-energy particles before disappearing entirely. These findings could help to explain how larger, supermassive black holes at the center of a galaxy can eject particles across vastly cosmic scales to shape a galaxy’s formation.
+
+“The role of  black holes in galaxy evolution is an outstanding question in modern astrophysics,” says Erin Kara, assistant professor of physics at MIT. “Interestingly, these black hole binaries appear to be ‘mini’ supermassive black holes, and so by understanding the outbursts in these small, nearby systems, we can understand how similar outbursts in supermassive black holes affect the galaxies in which they reside.”
+
+The study’s first author is MIT graduate student Jingyi Wang; other co-authors  include Matteo Lucchini and Ron Remillard at MIT, along with collaborators from Caltech and other institutions.
+
+X-ray delays
+
+Kara and her colleagues are using X-ray echoes to map a black hole’s vicinity, much the way that bats use sound echoes to navigate their surroundings. When a bat emits a call, the sound can bounce off an obstacle and return to the bat as an echo. The time it takes for the echo to return is relative to the distance between the bat and the obstacle, giving the animal a mental map of its surroundings.
+
+In similar fashion, the MIT team is looking to map the immediate vicinity of a black hole using X-ray echoes. The echoes represent time delays between two types of X-ray light: light emitted directly from the corona, and light from the corona that bounces off the accretion disk of inspiraling gas and dust.
+
+The time when a telescope receives light from the corona, compared to when it receives the X-ray echoes, gives an estimate of the distance between the corona and the accretion disk. Watching how these time delays change can reveal how a black hole’s corona and disk evolve as the black hole consumes stellar material.
+
+Echo evolution
+
+In their new study, the team developed search algorithm to comb through data taken by NASA’s Neutron star Interior Composition Explorer, or NICER, a high-time-resolution X-ray telescope aboard the International Space Station. The algorithm picked out 26 black hole X-ray binary systems that were previously known to emit X-ray outbursts. Of these 26, the team found that 10 systems were close and bright enough that they could discern X-ray echoes amid the outbursts. Eight of the 10 were previously not known to emit echoes.
+
+“We see new signatures of reverberation in eight sources,” Wang says. “The black holes range in mass from five to 15 times the mass of the sun, and they’re all in binary systems with normal, low-mass, sun-like stars.”
+
+As a side project, Kara is working with MIT education and music scholars, Kyle Keane and Ian Condry, to convert the emission from a typical X-ray echo into audible sound waves. Take a listen to the sound of a black hole echo here:
+The researchers then ran the algorithm on the 10 black hole binaries and divided the data into groups with similar “spectral timing features,” that is, similar delays between high-energy X-rays and reprocessed echoes. This helped to quickly track the change in X-ray echoes at every stage during a black hole’s outburst. 
+
+The team identified a common evolution across all systems. In the initial “hard” state, in which a corona and jet of high-energy particles dominates the black hole’s energy, they detected time lags that were short and fast, on the order of milliseconds. This hard state lasts for several weeks. Then, a transition occurs over several days, in which the corona and jet sputter and die out, and a soft state takes over, dominated by lower-energy X-rays from the black hole’s accretion disk.   
+
+During this hard-to-soft transition state, the team discovered that time lags grew momentarily longer in all 10 systems, implying the distance between the corona and disk also grew larger. One explanation is that the corona may briefly expand outward and upward, in a last high-energy burst before the black hole finishes the bulk of its stellar meal and goes quiet.
+
+“We’re at the beginnings of being able to use these light echoes to reconstruct the environments closest to the black hole,” Kara says. “Now we’ve shown these echoes are commonly observed, and we’re able to probe connections between a black hole’s disk, jet, and corona in a new way.”
+
+This research was supported, in part, by NASA.
